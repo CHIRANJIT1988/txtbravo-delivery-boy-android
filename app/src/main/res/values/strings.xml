@@ -1,0 +1,63 @@
+<resources>
+    <string name="app_name">txtBravo</string>
+
+    <string name="action_change_password">Change Password</string>
+    <string name="action_logout">Logout</string>
+    <string name="action_deliver">Attach Delivery Boy</string>
+    <string name="action_store_address">Store Address</string>
+    <string name="action_call">Call</string>
+    <string name="image_preview">Image Preview</string>
+
+    <string name="inbox">Inbox</string>
+
+    <string name="action_online">ONLINE</string>
+
+    <string name="action_clear">Clear Chat</string>
+    <string name="action_delete">Delete</string>
+    <string name="action_store_message">Store Message</string>
+    <string name="action_customer_message">Customer Message</string>
+
+    <string name="drawer_open">Menu opened</string>
+    <string name="drawer_close">Menu closed</string>
+
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="hint_enter_password">Enter Password *</string>
+    <string name="hint_new_password">Enter New Password *</string>
+    <string name="hint_enter_confirm_password">Re-Enter Password *</string>
+    <string name="button_register">Register</string>
+    <string name="button_login">Login</string>
+    <string name="button_change_password">Change Password</string>
+    <string name="button_forgot_password">Forgot Password ? Click Here</string>
+    <string name="hint_enter_mobile_no">Enter Mobile No *</string>
+    <string name="hint_enter_alternate_mobile_no">Enter Alternate Mobile No</string>
+    <string name="hint_enter_name">Enter Name *</string>
+    <string name="hint_enter_mobile_number">Enter Mobile No *</string>
+    <string name="hint_type_message">Type a message</string>
+    <string name="hint_capture_image">Capture</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="menu_settings">Settings</string>
+    <string name="title_activity_main">Push Notifications</string>
+    <string name="error_config">Please set the %1$s constant and recompile the app.</string>
+    <string name="already_registered">Device is already registered on server.</string>
+    <string name="gcm_registered">From GCM: Device successfully registered!</string>
+    <string name="gcm_unregistered">From GCM: Device successfully unregistered!</string>
+    <string name="gcm_message">From GCM: You got message!</string>
+    <string name="gcm_error">From GCM: Error (%1$s).</string>
+    <string name="gcm_recoverable_error">From GCM: recoverable error (%1$s).</string>
+    <string name="gcm_deleted">From GCM: Server deleted %1$d pending messages!</string>
+    <string name="server_registering">Trying (attempt %1$d/%2$d) to register device on server.</string>
+    <string name="server_registered">From Server: Successfully added device!</string>
+    <string name="server_unregistered">From Server: Successfully removed device!</string>
+    <string name="server_register_error">Could not register device on server after %1$d attempts.</string>
+    <string name="server_unregister_error">Could not unregister device on server (%1$s).</string>
+    <string name="options_register">Register</string>
+    <string name="options_unregister">Unregister</string>
+    <string name="options_clear">Clear</string>
+    <string name="options_exit">Exit</string>
+    <string name="title_activity_maps">Map</string>
+
+</resources>

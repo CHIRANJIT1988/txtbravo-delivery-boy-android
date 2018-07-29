@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="myPrimaryColor">#e34434</color>
+    <color name="myPrimaryDarkColor">#e0301e</color>
+    <color name="myAccentColor">#c5edfe</color>
+    <color name="myDrawerBackground">#FFF</color>
+    <color name="myWindowBackground">#FFF</color>
+    <color name="myTextPrimaryColor">#212121</color>
+    <color name="myTextSecondaryColor">#727272</color>
+    <color name="myNavigationColor">#000</color>
+
+    <color name="divider">#B6B6B6</color>
+    <color name="background">#dadada</color>
+
+
+    <string-array name="user_color">
+        <item>#ffc107</item>
+        <item>#8bc34a</item>
+        <item>#e51c23</item>
+        <item>#40c4ff</item>
+    </string-array>
+
+    <color name="icons">#FFFFFF</color>
+
+</resources>

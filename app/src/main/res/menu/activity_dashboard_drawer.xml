@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <!--<group android:checkableBehavior="single">
+
+        <item
+            android:id="@+id/nav_orders"
+            android:icon="@drawable/ic_email_open_grey600_24dp"
+            android:title="All Orders" />
+
+    </group>-->
+
+    <!--<item android:title="Account Management">
+        <menu>
+
+            <item
+                android:id="@+id/nav_manage_product"
+                android:icon="@drawable/ic_loupe_grey600_24dp"
+                android:title="Manage Product" />
+
+            <item
+                android:id="@+id/nav_configuration"
+                android:icon="@drawable/ic_store_grey600_24dp"
+                android:title="Store Profile" />
+
+            <item
+                android:id="@+id/nav_change_password"
+                android:icon="@drawable/ic_wrench_grey600_24dp"
+                android:title="Change Password" />
+        </menu>
+    </item>-->
+
+    <item android:title="Communicate">
+        <menu>
+            <item
+                android:id="@+id/nav_share_buyer"
+                android:icon="@drawable/ic_share_variant_grey600_24dp"
+                android:title="Share Buyer App" />
+            <item
+                android:id="@+id/nav_share_seller"
+                android:icon="@drawable/ic_share_variant_grey600_24dp"
+                android:title="Share Seller App" />
+        </menu>
+    </item>
+
+</menu>
